@@ -1,7 +1,7 @@
 # Ex 4 Deployment and configuration of a Private Cloud in AWS
 
-## NAME: SWETHA A
-## REG NO: 212223220114
+## NAME: SONU S
+## REG NO: 212223220107
 
 ### Aim:
 To set up of a Private Cloud in AWS.
